@@ -7,5 +7,5 @@ app.use(express.static('public'))
 app.set('views', path.join(__dirname, 'public'));
 app.set('view engine', 'html');
 
-app.listen(port_number, () => console.log(`Ping's portfolio is listening on port ${port_number}!`))
+app.listen(port_number, () => console.log(`XiaoPing's portfolio is listening on port ${port_number}!`))
 
