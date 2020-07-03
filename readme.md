@@ -1,19 +1,10 @@
-## Jin's Portfolio 
-
-https://jin-portfolio718.herokuapp.com/
-
-React-template, heroku-app and node.js
-
-Using bootstrap.
-
+This portfolio site was made using React-template, Bootstrap and Nodejs.
+It was made by xiaoping(ping) in 07/04/2020.
 ## Start
 
-git clone git@github.com:gitexpert718/my-portfolio.git
-
+git clone 
 npm install
-
 node server.js
-
 ## Maybe you can see on command:
 
-"jin.website is listening on port localhost:3500"
+"Xiaoping.website is listening on port localhost:3500"
